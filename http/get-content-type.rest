@@ -1,0 +1,2 @@
+GET http://localhost:5266/hello/get-content-type
+Content-Type: plain/text

@@ -1,0 +1,1 @@
+(cd src/MyWeb; dotnet watch)
